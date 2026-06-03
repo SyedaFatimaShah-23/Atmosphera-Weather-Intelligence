@@ -3,9 +3,9 @@ Atmosphera is a weather application built using HTML, CSS, and vanilla JavaScrip
 The app allows users to search for any city and instantly view live weather conditions, including temperature, humidity, wind speed, visibility, UV index, pressure, cloud coverage, air quality, and local time. Weather data is fetched in real time using the WeatherAPI service.
 
 -> Built with:
-HTML5
-CSS3
-JavaScript (ES6)
+HTML5,
+CSS3,
+JavaScript,
 WeatherAPI
 
 -> How It Works:
