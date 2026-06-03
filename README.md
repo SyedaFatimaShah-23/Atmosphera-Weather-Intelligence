@@ -1,4 +1,4 @@
-# Atmosphera-Weather-Intelligence
+# Atmosphera Weather Intelligence
 Atmosphera is a weather application built using HTML, CSS, and vanilla JavaScript. I wanted to create something that feels more premium than a typical weather app, so I focused heavily on the UI/UX while keeping the codebase simple. 
 The app allows users to search for any city and instantly view live weather conditions, including temperature, humidity, wind speed, visibility, UV index, pressure, cloud coverage, air quality, and local time. Weather data is fetched in real time using the WeatherAPI service.
 
